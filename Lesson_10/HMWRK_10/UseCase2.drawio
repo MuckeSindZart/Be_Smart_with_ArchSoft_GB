@@ -1,0 +1,212 @@
+<mxfile host="65bd71144e" scale="1" border="10">
+    <diagram id="AFe7lzAr3rjavu5SxylW" name="Страница 1">
+        <mxGraphModel dx="724" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="90" value="" style="html=1;" parent="1" vertex="1">
+                    <mxGeometry y="219" width="810" height="571" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="702" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="712" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="702" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Робот&#10; Пылесос" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="759" width="80" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="702" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;font color=&quot;#000000&quot;&gt;Облако/Сервер&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="750" y="714" width="20" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;jumpSize=11;strokeWidth=3;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="280" y="692" as="sourcePoint"/>
+                        <mxPoint x="280" y="322" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;strokeWidth=3;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="520" y="690" as="sourcePoint"/>
+                        <mxPoint x="520" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;strokeWidth=3;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="34.55000000000001" y="690" as="sourcePoint"/>
+                        <mxPoint x="34.55000000000001" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;strokeWidth=3;fillColor=#76608a;strokeColor=#432D57;" parent="1" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="759.55" y="690" as="sourcePoint"/>
+                        <mxPoint x="759.55" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="238.5" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="238.5" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="228.5" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Робот&#10; Пылесос" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="285.5" width="80" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="740" y="228.5" width="40" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;font color=&quot;#000000&quot;&gt;Облако/Сервер&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="750" y="238.5" width="20" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Мобильное&lt;br&gt;&amp;nbsp;Приложение" style="html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="252" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Мобильное&lt;br&gt;&amp;nbsp;Приложение" style="html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="709" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="Инициирует сопряжение" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="340" as="sourcePoint"/>
+                        <mxPoint x="280" y="340" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="Вводит данные привязки" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="360" as="sourcePoint"/>
+                        <mxPoint x="280" y="360" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="66" value="Запуск Уборки" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="400" as="sourcePoint"/>
+                        <mxPoint x="280" y="400" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="Остановка уборки" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.1667" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="420" as="sourcePoint"/>
+                        <mxPoint x="280" y="420" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="68" value="Приоставнока уборки" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="440" as="sourcePoint"/>
+                        <mxPoint x="280" y="440" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="Изменение режимов работы" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="480" as="sourcePoint"/>
+                        <mxPoint x="280" y="480" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="Установка расписания" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="500" as="sourcePoint"/>
+                        <mxPoint x="280" y="500" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="74" value="Подтверждение Изменений" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="280" y="520" as="sourcePoint"/>
+                        <mxPoint x="40" y="520" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="Присылает команды" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" edge="1">
+                    <mxGeometry x="-0.7083" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="280" y="430" as="sourcePoint"/>
+                        <mxPoint x="760" y="430" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="76" value="Пересылает команды" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="760" y="450" as="sourcePoint"/>
+                        <mxPoint x="520" y="450" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="Отправляет статус" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
+                    <mxGeometry x="-0.5" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="520" y="570" as="sourcePoint"/>
+                        <mxPoint x="760" y="570" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="Отправляет уведомления" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" edge="1">
+                    <mxGeometry x="-0.3333" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="520" y="610" as="sourcePoint"/>
+                        <mxPoint x="760" y="610" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="Пересылает команды" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="760" y="510" as="sourcePoint"/>
+                        <mxPoint x="520" y="510" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="Присылает команды" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" edge="1">
+                    <mxGeometry x="-0.7083" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="280" y="490" as="sourcePoint"/>
+                        <mxPoint x="760" y="490" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="Сопряжение робота" style="endArrow=block;endSize=16;endFill=0;html=1;startArrow=block;startFill=0;startSize=16;strokeWidth=1;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" edge="1">
+                    <mxGeometry x="-0.4894" y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="760" y="350" as="sourcePoint"/>
+                        <mxPoint x="280" y="350" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="82" value="Пересылает статус" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" edge="1">
+                    <mxGeometry x="-0.6667" y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="760" y="590" as="sourcePoint"/>
+                        <mxPoint x="280" y="590" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="Пересылает уведомления" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#76608a;strokeColor=#432D57;" parent="1" edge="1">
+                    <mxGeometry x="-0.6667" y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="760" y="630" as="sourcePoint"/>
+                        <mxPoint x="280" y="630" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="86" value="Просмотр Состояния" style="endArrow=block;endSize=16;endFill=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
+                    <mxGeometry x="-0.25" y="10" width="160" relative="1" as="geometry">
+                        <mxPoint x="40" y="610" as="sourcePoint"/>
+                        <mxPoint x="280" y="610" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="Сопряжение робота" style="endArrow=block;endSize=16;endFill=0;html=1;startArrow=block;startFill=0;startSize=16;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" edge="1">
+                    <mxGeometry y="-10" width="160" relative="1" as="geometry">
+                        <mxPoint x="520" y="340" as="sourcePoint"/>
+                        <mxPoint x="280" y="340" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
